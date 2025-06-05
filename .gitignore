@@ -1,0 +1,21 @@
+# Sensitive config files
+config/config.php
+config/constants.php
+
+# Database files
+db/db.sql
+db/seed.php
+
+# User uploads
+public/uploads/
+
+# Environment files
+.env
+
+# Composer dependencies
+vendor/
+
+# Temporary files
+*.log
+*.cache
+*.tmp
